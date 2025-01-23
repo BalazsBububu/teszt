@@ -1,0 +1,11 @@
+nav {
+    width: 100%;
+    border: 1px black;
+    background-color: yellow;
+    text-align: center;
+}
+
+nav a {
+    color: black;
+    font-size: 2em;
+}
